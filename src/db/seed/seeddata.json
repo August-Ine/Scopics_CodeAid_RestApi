@@ -1,0 +1,192 @@
+[
+    {
+        "name": "Patrica Cantu",
+        "position": "defender",
+        "playerSkills": [
+            {
+                "skill": "attack",
+                "value": 16
+            },
+            {
+                "skill": "speed",
+                "value": 87
+            },
+            {
+                "skill": "strength",
+                "value": 45
+            },
+            {
+                "skill": "stamina",
+                "value": 28
+            }
+        ]
+    },
+    {
+        "name": "Jenkins Farrell",
+        "position": "defender",
+        "playerSkills": [
+            {
+                "skill": "attack",
+                "value": 2
+            },
+            {
+                "skill": "speed",
+                "value": 72
+            },
+            {
+                "skill": "strength",
+                "value": 90
+            },
+            {
+                "skill": "stamina",
+                "value": 96
+            }
+        ]
+    },
+    {
+        "name": "Mcgowan Wilkinson",
+        "position": "defender",
+        "playerSkills": [
+            {
+                "skill": "speed",
+                "value": 96
+            },
+            {
+                "skill": "strength",
+                "value": 76
+            },
+            {
+                "skill": "stamina",
+                "value": 24
+            }
+        ]
+    },
+    {
+        "name": "Webster Crane",
+        "position": "midfielder",
+        "playerSkills": [
+            {
+                "skill": "attack",
+                "value": 82
+            },
+            {
+                "skill": "speed",
+                "value": 71
+            },
+            {
+                "skill": "strength",
+                "value": 34
+            },
+            {
+                "skill": "stamina",
+                "value": 27
+            }
+        ]
+    },
+    {
+        "name": "Joanne White",
+        "position": "midfielder",
+        "playerSkills": [
+            {
+                "skill": "attack",
+                "value": 18
+            },
+            {
+                "skill": "speed",
+                "value": 87
+            },
+            {
+                "skill": "strength",
+                "value": 22
+            },
+            {
+                "skill": "stamina",
+                "value": 63
+            }
+        ]
+    },
+    {
+        "name": "Tyson Delacruz",
+        "position": "midfielder",
+        "playerSkills": [
+            {
+                "skill": "attack",
+                "value": 83
+            },
+            {
+                "skill": "speed",
+                "value": 33
+            },
+            {
+                "skill": "strength",
+                "value": 45
+            },
+            {
+                "skill": "stamina",
+                "value": 88
+            }
+        ]
+    },
+    {
+        "name": "Pearl Gallegos",
+        "position": "midfielder",
+        "playerSkills": [
+            {
+                "skill": "attack",
+                "value": 64
+            },
+            {
+                "skill": "speed",
+                "value": 33
+            },
+            {
+                "skill": "strength",
+                "value": 29
+            },
+            {
+                "skill": "stamina",
+                "value": 40
+            }
+        ]
+    },
+    {
+        "name": "Webster Crane",
+        "position": "midfielder",
+        "playerSkills": [
+            {
+                "skill": "attack",
+                "value": 82
+            },
+            {
+                "skill": "speed",
+                "value": 71
+            },
+            {
+                "skill": "strength",
+                "value": 34
+            },
+            {
+                "skill": "stamina",
+                "value": 27
+            }
+        ]
+    },
+    {
+        "name": "Joanne White",
+        "position": "midfielder",
+        "playerSkills": [
+            {
+                "skill": "attack",
+                "value": 18
+            },
+            {
+                "skill": "strength",
+                "value": 22
+            },
+            {
+                "skill": "stamina",
+                "value": 63
+            }
+        ]
+    }
+]

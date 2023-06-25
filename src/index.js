@@ -7,11 +7,13 @@
 
 import app from './api';
 import database from './db';
+import seedData from './db/seed';
 
 const port = 3000
 
 database.sync().then(
   () => {
+    seedData();
     app.listen(port, () => {
       console.log(`Example app listening on port ${port}`)
     })
