@@ -13,7 +13,7 @@ const port = 3000
 
 database.sync().then(
   () => {
-    seedData();
+    // seedData();
     app.listen(port, () => {
       console.log(`Example app listening on port ${port}`)
     })
